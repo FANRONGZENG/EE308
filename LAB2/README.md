@@ -5,6 +5,11 @@
 #### 2. Solve some problem. Still need to be updated.  
 #### 3. Using Jupyter(python)  
 
+
 ### In version_2.1(2021/9/22):
 #### 1.Using Pycharm
 #### 2.define several function to make it clear
+
+
+### In version_2.1(2021/9/23):
+#### 1.Add a function to tranform a c/c++ file into txt file
